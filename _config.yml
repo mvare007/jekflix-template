@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
+name: MV
+title: MV | A blog theme for Jekyll
+description: MV is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
@@ -61,7 +61,6 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
 use_logo: false
 
 # Content paginator
