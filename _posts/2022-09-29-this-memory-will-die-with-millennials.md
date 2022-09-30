@@ -25,7 +25,7 @@ Back in those days, only a fraction of households had a computer and within that
 
 Cell phones were rare, basic, expensive and clunky. So clunky that they could literally be used as a throwable weapon ([see Nokia 3310](https://www.androidauthority.com/nokia-3310-900425/)).  Game consoles like PS1, Nintendo 64, Sega Saturn and GameBoy reached the masses in what was arguably one of the golden ages of gaming.
 
-For all the inventions that had connected humans and had reached the masses back then, we could still say that global society as a whole was not very interconnected and not even a coined term... That is up until the Internet came about. 
+For all the inventions that had connected humans and had reached the masses, back then, we could still say that global society as a whole was not very interconnected and not even a coined term... That is up until the Internet came about. 
 
 First came the advent of telephone in the early 20th century, then came the television in the second half of that century.
 
