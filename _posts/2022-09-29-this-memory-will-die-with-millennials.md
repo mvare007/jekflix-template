@@ -12,16 +12,24 @@ tags:
 author: Marco Varela
 paginate: false
 ---
-My childhood was during the 90's/early 00's so I spent the afternoons after school doing things kids did back in those days like: 
+My childhood was spent during the late 90's, early 00's so I spent the afternoons after school doing things kids did back in those days like: 
 
-* Playing football
-* Hide & seek
-* Stealing fruit from my neighbors trees (which in Portugal we call 'ir à chinchada')
-* Playing multiplayer split-screen Gran Turismo and Pro Evolution Soccer 
-* Playing Final Fantasies, MGSs, and GTAs
-* Listening to my older brothers's music cds
+* Playing football;
+* Hide & seek;
+* Stealing fruit from my neighbors trees (which in Portugal we call 'ir à chinchada');
+* Playing multiplayer split-screen Gran Turismo and Pro Evolution Soccer;
+* Playing Pokémon, Final Fantasy, MGS, and GTA;
+* Listening to my older brothers's music CDs.
 
-Back in those days in Portugal, only a fraction of households had a computer and within that tiny fraction only a few had Internet access. Cell phones were rare, basic, expensive and clunky. So clunky that they could literally be used as a throwable weapon (see Nokia 3310, known as the brick, what a phone..!). 
+Back in those days, only a fraction of households had a computer and within that tiny fraction only a few had Internet access. 
+
+Cell phones were rare, basic, expensive and clunky. So clunky that they could literally be used as a throwable weapon ([see Nokia 3310](https://www.androidauthority.com/nokia-3310-900425/)).  Game consoles like PS1, Nintendo 64, Sega Saturn and GameBoy reached the masses in what was arguably one of the golden ages of gaming.
+
+For all the inventions that had connected humans and had reached the masses back then, we could still say that global society as a whole was not very interconnected and not even a coined term... That is up until the Internet came about. 
+
+First came the advent of telephone in the early 20th century, then came the television in the second half of that century.
+
+
 
 Knowledge of pre-digital life.
 
