@@ -2,7 +2,7 @@
 date: 2022-09-29 18:13:21
 layout: post
 title: This memory will die with millennials
-subtitle: ""
+subtitle: The last generation to remember the world
 description: The memory that will die with millenials
 image: https://source.unsplash.com/UH-xs-FizTk
 category: life
@@ -16,7 +16,7 @@ My childhood was spent during the late 90's, early 00's so I spent the afternoon
 
 * Playing football;
 * Hide & seek;
-* Stealing fruit from my neighbors trees (which in Portugal we call 'ir à chinchada');
+* Picking up fruits from the neighbor's trees (which in Portugal we call 'chinchada');
 * Playing multiplayer split-screen Gran Turismo and Pro Evolution Soccer;
 * Playing Pokémon, Final Fantasy, MGS, and GTA;
 * Listening to my older brothers's music CDs.
@@ -27,7 +27,7 @@ Cell phones were rare, basic, expensive and clunky. So clunky that they could li
 
 For all the inventions that had connected humans and had reached the masses, back then, we could still say that global society as a whole was not very interconnected and not even a coined term... That is up until the Internet came about. 
 
-First came the advent of telephone in the early 20th century, then came the television in the second half of that century.
+First came the advent of telephone in the early 20th century, then came the television in the second half of that century. But no other technology revolutionized human 
 
 
 
