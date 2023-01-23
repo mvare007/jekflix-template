@@ -5,7 +5,7 @@ title: "Coding with a Beginner's Mind: How the Concept of Shoshin Can Improve
   Your Software Development"
 description: "Coding with a Beginner's Mind: How the Concept of Shoshin Can
   Improve Your Software Development"
-image: /assets/img/uploads/hotpot.png
+image: ""
 category: code
 author: Marco Varela
 paginate: false
