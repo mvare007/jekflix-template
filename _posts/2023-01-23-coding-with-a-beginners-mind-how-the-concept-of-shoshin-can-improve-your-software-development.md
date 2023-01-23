@@ -3,9 +3,10 @@ date: 2023-01-23 15:04:44
 layout: post
 title: "Coding with a Beginner's Mind: How the Concept of Shoshin Can Improve
   Your Software Development"
+subtitle: ""
 description: "Coding with a Beginner's Mind: How the Concept of Shoshin Can
   Improve Your Software Development"
-image: ""
+image: /assets/img/uploads/dall·e-2023-01-23-18.05.12-slow-turtle-walking-in-a-race-with-turtle-with-jetpack.png
 category: code
 author: Marco Varela
 paginate: false
