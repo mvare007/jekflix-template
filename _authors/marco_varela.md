@@ -1,9 +1,9 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/20230605_164214.jpg
 name: Marco Varela
 display_name: Marco Varela
-position: Human
+position: ""
 bio: >-
   Hey there, I'm Marco! A regular guy from Portugal, and a proud father of two
   amazing kids.
