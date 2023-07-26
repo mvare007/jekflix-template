@@ -1,34 +1,31 @@
 ---
 date: 2023-07-18 18:27:31
 layout: post
-title: "Navigating the Hierarchy Game: Why I Ditched the Labels and Embraced My
-  Inner Sloth"
+title: "Defying Labels: Finding Freedom in Identity Outside Hierarchies"
+subtitle: Embracing individual worth in a hierarchical world, unraveling the
+  significance of hierarchy resistance and celebrating the beauty of diverse
+  perspectives
 description: "Discover Your Path to Personal Freedom: Embrace Individuality and
   Break Free from Hierarchies!"
+image: /assets/img/uploads/rational-idealism-kosmonaut-event-v3.jpg
 category: life
+tags:
+  - Hierarchies
+  - Life
+  - Idealism
 author: Marco Varela
 paginate: false
 ---
-Picture this: a world where hierarchies are like a wild zoo, and everyone is scrambling to be the alpha animal in their respective enclosures. For the longest time, I was a willing participant in this zoo, hopping from one labelled cage to another, trying to find where I truly belonged. But, oh boy, did I learn my lesson!
+From an early age, I instinctively sought to carve out a unique identity for myself, one that defied any conventional categorization or group affiliation. At the time, I couldn't quite put my finger on the reason behind this drive; all I knew was that I wanted to avoid being confined by labels or confined to a particular role.
 
-Since childhood, I had this insatiable need to break free from the chains of categorization. Labels just didn't sit right with me, and I didn't want to be pigeonholed or stuck in some cookie-cutter identity. 
+As I matured, I came to recognize this tendency as a form of "hierarchy resistance," a defense mechanism against the structures of societal hierarchies. I realized that hierarchies are entirely human-made constructs, arbitrary systems of ranking and organizing individuals based on perceived value or authority. However, their significance is only relevant to those who reside within them.
 
-Imagine hierarchies like a flashy, over-the-top reality show. People within these hierarchies are stars, and the hierarchy is their stage. But, guess what? This whole spectacle is entirely man-made, like those reality TV dramas we all secretly love to hate-watch.
+Consider the hierarchy within a corporate setting: the boss occupies the top, followed by employees at various levels, including the mailroom guy at the bottom. Yet, for someone living a completely different lifestyle, say a [Mundari tribesman in South Sudan](https://en.wikipedia.org/wiki/Mundari_people), these distinctions hold no weight. To them, individuals in a corporation would all be seen as equals, and they might even assess abilities as inferior, prioritizing skills that are crucial for survival in their environment, such as cattle herding. And the mailroom guy might be a great dancer and be on the top of the hierarchy at the local dance club.
 
-Take, for example, the corporate office drama. You've got your CEO superstar, strutting around like they own the place (well, they kind of do), and the middle managers trying to impress them to climb the ladder of success. It's all a big show, folks, with each character trying to outshine the other in this grand hierarchy circus.
+The intriguing aspect of hierarchies is their intimate relationship with [idealism](https://en.wikipedia.org/wiki/Idealism). Those within a hierarchy often perceive their position and the hierarchy itself as desirable and inherently valuable. They ascribe absolute worth to these structures, elevating them above any relative evaluations.
 
-But here's the kicker: it's all relative. What's a big deal in one hierarchy is no biggie in another. Just like comparing the Olympic high dive to a belly flop at a local pool; the context matters, right?
+However, we must recognize that the value of a hierarchy is purely subjective. It holds significance only for those who assign meaning to it and remains irrelevant to those who don't. This brings me to an interesting vantage point – being outside of the hierarchy allows me to observe and appreciate the differing reactions to someone's achievements.
 
-Now, let's meet our hilarious example: Mr. Sloth. Yep, you read that right - a sloth. Imagine I'm sitting outside the corporate zoo, sipping my coffee, and here comes Mr. Sloth, slowly making his way across the fence. The CEOs are scurrying, middle managers are running around, and this little guy is just...well, being a sloth!
+For example, consider two individuals: a manager at a prominent company and a skilled artisan from a distant community. To someone within the manager's corporate hierarchy, their position might be commendable and highly esteemed. But to someone outside this hierarchy, like the artisan, both individuals' achievements may not evoke any special admiration. Both the manager's corporate success and the artisan's craftsmanship may be equally valued based on their distinct contributions and context.
 
-And guess what? He couldn't care less about the hierarchy madness. He's just doing his own sloth thing, chilling in his own little hierarchy of one. No labels, no stress, just living life at his own pace.
-
-It was at that moment I had an epiphany. I didn't need to play the hierarchy game. I didn't have to be the fastest, the smartest, or the loudest to find my place in this world. I could be my own hierarchy, just like Mr. Sloth.
-
-The beauty of embracing our individuality is that we don't need validation from others to find our worth. Sure, the CEOs and middle managers might be impressed by their own hierarchical dance, but what does that matter to me, to you, or to Mr. Sloth?
-
-So, my dear reader, I invite you to ditch the labels, break free from the zoo of hierarchies, and embrace your inner sloth. Discover your unique strengths and passions, even if they seem unconventional or not glamorous in the eyes of others.
-
-Life is too short to play the hierarchy game and let it define our worth. Let's laugh along with Mr. Sloth as we take charge of our lives, marching to the beat of our own drums. It's time to be the rulers of our own hierarchies and let the rest of the world catch up to our awesomeness, just like the CEOs and middle managers running around in circles!
-
-And remember, my friend, in this zoo of life, being a sloth is pretty darn cool!
+This position outside the hierarchy grants me the freedom to assess accomplishments impartially. I can appreciate the unique value that each person brings without being influenced by the hierarchy's internal biases. I recognize that the true worth of an individual lies not in their rank within a hierarchy, but in the diverse perspectives, skills, and experiences they contribute to the world.
