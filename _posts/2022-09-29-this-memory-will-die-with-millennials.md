@@ -14,7 +14,7 @@ paginate: false
 ---
 Ah, the late 90s and early 00s, a magical era that remains etched in the memories of us millennials. As a kid during those glorious days, my afternoons were filled with adventures that seem to belong to a bygone era now. Let me take you on a trip down memory lane and introduce you to the world we knew.
 
-Picture this: playing football under the warm sun, the thrill of chasing and kicking the ball, laughter filling the air. We were masters of hide and seek, sneaking around corners and finding the best hiding spots. And oh, the joy of picking ripe fruits from our neighbour's trees, an act we fondly referred to as "chinchada" here in Portugal.
+Picture this: playing football under the warm sun, the thrill of chasing and kicking the ball, laughter filling the air. We were masters of hide and seek, sneaking around corners and finding the best hiding spots. And oh, the joy of picking ripe fruits from our neighbour's trees, an act we fondly refer to as "chinchada" here in Portugal.
 
 Of course, our playtime wasn't complete without indulging in some gaming excitement. Multiplayer split-screen battles in Gran Turismo and Pro Evolution Soccer brought out our competitive spirits, as we fought for victory with friends by our side. And who could forget the hours spent immersed in captivating worlds like Pokémon, Final Fantasy, MGS, and GTA? Those games were our portals to adventure and wonder.
 
