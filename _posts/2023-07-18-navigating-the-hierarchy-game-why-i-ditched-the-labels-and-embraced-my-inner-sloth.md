@@ -1,5 +1,5 @@
 ---
-date: 2023-07-18 18:27:31
+date: 2023-07-25 18:27:31
 layout: post
 title: "Defying Labels: Finding Freedom in Identity Outside Hierarchies"
 subtitle: Embracing individual worth in a hierarchical world, unraveling the
