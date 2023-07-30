@@ -1,7 +1,7 @@
 # Site Settings
 name: MV
 title: MV | Blog
-description: These are my opinions, if you disagree you are wrong!
+description: Marco Varela's Blog
 tags:
   - blog
   - template
@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+show_get_theme_btn: false
 menu:
   - title: Home
     url: /
@@ -20,20 +21,20 @@ menu:
   #   url: /feed.xml
 email: marcovarela12@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: disqus_MbRFWGzZ3l
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mbjvddng
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: mvare007
-# facebook_username: facebook_username
-# twitter_username: twitter_username
-# instagram_username: instagram_username
-linkedin_username: mvare007
-# medium_username: medium_username
+github_username: github_username
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
 
 
 # Posts Settings
@@ -60,7 +61,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
@@ -103,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v0.1
+version: v3.1.1

@@ -1,7 +1,6 @@
 name: MV
 title: MV | Blog
-description: MV is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Marco Varela's Blog
 tags:
   - blog
   - template
@@ -9,6 +8,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+show_get_theme_btn: false
 menu:
   - title: Home
     url: /
@@ -18,9 +18,9 @@ menu:
     url: /contact
   # - title: Feed
   #   url: /feed.xml
-email: youremail@test.com
+email: marcovarela12@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: disqus_MbRFWGzZ3l
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mbjvddng
