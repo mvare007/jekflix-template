@@ -11,10 +11,10 @@ bio: >-
   and a challenge!
 
 
-  You know, I'm a bit of a thrill-seeker, and there's nothing quite like feeling the wind in my hair as I hop on my motorcycle or a bicycle. Those who know me say it brings out my inner daredevil, but I like to think of it as my own version of "living on the edge" without going overboard!
+  I'm a bit of a thrill-seeker, and there's nothing quite like feeling the wind in my hair as I hop on my motorcycle or on a bicycle. Those who know me say it brings out my inner daredevil, but I like to think of it as my own version of "living on the edge" without going overboard!
 
 
-  Now, programming is my little happy place, especially when I'm tinkering with Ruby as I'am a Rubyist at heart - it's like magic, and it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. But don't get me wrong, I'm no tech wizard; I stumble through it like a kid with a new toy, making mistakes and learning as I go. If I don't have the answer I will admit it but I won't give up until I find it. 
+  Now, programming is my little happy place, especially when I'm tinkering with Ruby as I 'am a Rubyist at heart - it's hard to resist the allure of creating digital wonders with just a few lines of beautiful, idiomatic code. But don't get me wrong, I'm no tech wizard; I stumble through it like a kid with a new toy, making mistakes and learning as I go. If I don't have the answer I will admit it but I won't give up until I find it. 
 
 
   Here's a little secret—I'm a musical mischief-maker too! When I strum my acoustic guitar, it's not just about playing the classics. Nope, I add my own twist with parody lyrics, and I love the joy it brings! Laughter is the best medicine, they say, and I'm all about keeping the prescription filled. 
