@@ -38,5 +38,7 @@
     "lodash.merge": "^4.6.2",
     "vinyl-source-stream": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "decap-cms-app": "^3.0.10"
+  }
 }
